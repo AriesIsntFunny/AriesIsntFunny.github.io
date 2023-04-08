@@ -1,0 +1,21 @@
+
+
+#outerbody {
+    background-image: linear-gradient(to right, rgb(255, 255, 255), rgb(228, 158, 228)); color: black;
+}
+
+.img-fluid-pfp {
+    width: 50%;
+    display: block;
+    margin: auto;
+}
+
+a:link {
+    color: black;
+}
+a:visited {
+    color: purple;
+}
+a:hover {
+    color: green;
+}
