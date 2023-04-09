@@ -1,13 +1,33 @@
 
 
 #outerbody {
-    background-image: linear-gradient(to right, rgb(255, 255, 255), rgb(228, 158, 228)); color: black;
+    background-image: linear-gradient(to right, rgb(255, 255, 255), rgb(199, 169, 255)); color: black;
 }
 
 .img-fluid-pfp {
     width: 50%;
     display: block;
     margin: auto;
+}
+
+.mini-images {
+    width: 100%;
+    margin-right: 5px;
+}
+
+.quarter-sized-button {
+    width: 25%;
+    display: block;
+    margin: auto;
+}
+
+.centered-logo {
+    display: block;
+    text-align: center;
+}
+
+.center-vertically {
+    line-height: 4;
 }
 
 a:link {
