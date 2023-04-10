@@ -10,6 +10,13 @@
     margin: auto;
 }
 
+.history-carousel {
+    width: 50%;
+    display: block;
+    margin-right: 2%;
+    margin-bottom: 2%;
+}
+
 .mini-images {
     width: 100%;
     margin-right: 5px;
@@ -19,6 +26,7 @@
     width: 25%;
     display: block;
     margin: auto;
+    /* margin-top: 25%; */
 }
 
 .centered-logo {
@@ -27,7 +35,7 @@
 }
 
 .center-vertically {
-    line-height: 4;
+    margin-top: 10%;
 }
 
 a:link {
