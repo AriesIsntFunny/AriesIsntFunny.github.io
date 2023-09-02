@@ -10,6 +10,13 @@
     margin: auto;
 }
 
+.img-fluid-parchment {
+    width: 80%;
+    display: block;
+    margin: auto;
+    margin-bottom: 8%;
+}
+
 .history-carousel {
     width: 50%;
     display: block;
