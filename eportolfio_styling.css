@@ -1,20 +1,6 @@
 
-
 #outerbody {
     background-image: linear-gradient(to right, rgb(255, 255, 255), rgb(199, 169, 255)); color: black;
-}
-
-.img-fluid-pfp {
-    width: 50%;
-    display: block;
-    margin: auto;
-}
-
-.img-fluid-parchment {
-    width: 80%;
-    display: block;
-    margin: auto;
-    margin-bottom: 8%;
 }
 
 .history-carousel {
@@ -22,18 +8,6 @@
     display: block;
     margin-right: 2%;
     margin-bottom: 2%;
-}
-
-.mini-images {
-    width: 8%;
-    margin-right: 5px;
-}
-
-.quarter-sized-button {
-    width: 25%;
-    display: block;
-    margin: auto;
-    /* margin-top: 25%; */
 }
 
 .centered-logo {

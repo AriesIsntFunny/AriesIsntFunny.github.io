@@ -1,0 +1,77 @@
+@media only screen and (max-width: 480px) {
+    #desktopV {
+        display: none;
+    }
+
+    #mobV {
+        display: block;
+    }
+
+    .img-fluid-pfp {
+        width: 100%;
+        display: block;
+        margin: auto;
+    }
+
+    .img-fluid-pfp-m {
+        width: 60%;
+        display: block;
+        margin: auto;
+    }
+    
+    .img-fluid-parchment {
+        width: 80%;
+        display: block;
+        margin: auto;
+        margin-bottom: 8%;
+    }
+
+    .mini-images {
+        width: 20%;
+        margin-right: 5px;
+    }
+
+    .smallerNav {
+        max-width: 30%;
+    }
+
+    .quarter-sized-button {
+        display: block;
+        margin: auto;
+    }
+}
+
+@media only screen and (min-width: 481px) {
+    #desktopV {
+        display: flex;
+    }
+
+    #mobV {
+        display: none;
+        
+    }
+
+    .img-fluid-pfp {
+        width: 50%;
+        display: block;
+        margin: auto;
+    }
+    
+    .img-fluid-parchment {
+        width: 80%;
+        display: block;
+        margin: auto;
+        margin-bottom: 8%;
+    }
+
+    .mini-images {
+        width: 8%;
+        margin-right: 5px;
+    }
+
+    .quarter-sized-button {
+        width: 25%;
+        display: block;
+        margin: auto;
+    }
+}
